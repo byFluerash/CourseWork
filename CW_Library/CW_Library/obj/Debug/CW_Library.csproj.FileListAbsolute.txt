@@ -1,0 +1,6 @@
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\bin\Debug\CW_Library.dll
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\bin\Debug\CW_Library.pdb
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\obj\Debug\CW_Library.csprojAssemblyReference.cache
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\obj\Debug\CW_Library.csproj.CoreCompileInputs.cache
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\obj\Debug\CW_Library.dll
+C:\Users\DFluerash\source\repos\CourseWork_KS\CW_Library\CW_Library\obj\Debug\CW_Library.pdb

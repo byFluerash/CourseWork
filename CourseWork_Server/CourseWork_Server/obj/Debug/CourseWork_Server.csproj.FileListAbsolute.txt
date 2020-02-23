@@ -1,0 +1,10 @@
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\bin\Debug\CourseWork_Server.exe.config
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\bin\Debug\CourseWork_Server.exe
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\bin\Debug\CourseWork_Server.pdb
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\bin\Debug\CW_Library.dll
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\bin\Debug\CW_Library.pdb
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\obj\Debug\CourseWork_Server.csprojAssemblyReference.cache
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\obj\Debug\CourseWork_Server.csproj.CoreCompileInputs.cache
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\obj\Debug\CourseWork_Server.csproj.CopyComplete
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\obj\Debug\CourseWork_Server.exe
+C:\Users\DFluerash\source\repos\CourseWork\CourseWork_Server\CourseWork_Server\obj\Debug\CourseWork_Server.pdb
